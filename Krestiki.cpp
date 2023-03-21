@@ -1,9 +1,5 @@
 ﻿#include <iostream>
-#include<chrono>
-#include<thread>
 #include<vector>
-#include<functional>
-#include<algorithm>
 #include<iomanip>
 using namespace std;
 const int rows = 3;
